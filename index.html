@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cotação</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="painel">
+        <h1>Cotação</h1>
+        <div id="cotacao">
+            <input id="valor" type="text" placeholder="Cotação Atual">
+        </div>
+        <select name="moeda" id="moeda">
+            <option value="">--Selecione--</option>
+            <option value="USD">Dolar (USD)</option>
+            <option value="EUR">Euro (EUR)</option>
+        </select>
+
+        <button id="buscar" onclick="buscarCotacao()">Consultar Coração</button>
+    </div>
+    
+    
+    <script src="js/script.js"></script>
+</body>
+</html>

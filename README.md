@@ -1,2 +1,7 @@
-"# Cota‡Æo" 
-"# Cota--o" 
+ "# Cota-Ã§Ã£oo" 
+Um projeto voltado ao aprendizado.
+
+"**Tecnologias Usadas**"
+-HTML;
+-CSS;
+-JS;
